@@ -9,27 +9,27 @@
 
 Voz **Ativa**: Quando há um sujeito que age diretamente na oração. Este sujeito nós o chamamos de **sujeito agente**.
 
-Exemplo: 
+Exemplo: </br>
 <u>João</u> comeu hambúrguer 🍔
-┗> _sujeito agente_
+ </br>  ┗> _sujeito agente_
 
 Voz **Passiva**: Quando o sujeito recebe a ação. Este sujeito nós os chamamos de **sujeito paciente**.
 
 *Obs:* Esta voz ela é subdividida em **2 tipos**:
-* Passiva analítica:  suj. paciente **+** locução verbal **+** agente da passiva(que pode aparecer ou não).
-Exemplo:
-<u>O hambúrguer</u> <u>foi comido</u> <u>por João</u> 🍔
-            ┗> _suj.paciente_  ┗> _loc. verbal_          ┗>_agente da passiva_
+* Passiva analítica:  suj. paciente **+** locução verbal **+** agente da passiva(que pode aparecer ou não). </br>
+Exemplo:</br>
+<u>O hambúrguer</u> <u>foi comido</u> <u> por João </u> 🍔
+  </br>  ┗> _suj.paciente_  ┗> _loc. verbal_   ┗>_agente da passiva_
 
-* Passiva sintética : coloca-se um VTD junto a partícula *se*. Que chamamos de **partícula apassivadora**. Esta voz também omite quem pratica a ação verbal.
-Exemplo:
-Comeu-<u>se</u> o hambúrguer 🍔
+* Passiva sintética : coloca-se um VTD junto a partícula *se*. Que chamamos de **partícula apassivadora**. Esta voz também omite quem pratica a ação verbal. </br>
+Exemplo: </br>
+Comeu-<u>se</u> o hambúrguer 🍔 
 
 Voz **Reflexiva**: O sujeito que  faz a ação e recebe ela ao mesmo tempo.
 
-Exemplo:
-<u>João</u> se molhou. 🌊
-┗> _suj. agente e suj. paciente_
+Exemplo:</br>
+<u>João</u> se molhou. 🌊 </br>
+            ┗> _suj. agente e suj. paciente_
 
 ****
 
